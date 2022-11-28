@@ -1,0 +1,61 @@
+body{
+    background-color: blanchedalmond;
+}
+h1{
+    margin-left: 80px;
+    color: brown;
+}
+#user_form{
+    
+    width: 300px;
+    border: 3px solid #73AD21;
+    margin-left: 80px;
+    box-sizing: border-box;
+}
+
+input[type="text"]{
+    background-color: #9fc172;
+    padding: 15px;
+    font-weight: bold;
+    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+      "Lucida Sans", Arial, sans-serif;
+    font-size: 0.9em;
+    width: 200px;
+    
+}
+
+p{
+    margin-left: 30px;
+}
+
+button{
+    margin-left: 80px;
+}
+
+ul{
+    margin-left: 60px;
+}
+
+#edit_user{
+    
+    width: 300px;
+    border: 3px solid #73AD21;
+    margin-left: 80px;
+    box-sizing: border-box;
+}
+#save_edit{
+    margin-left: 30px;
+    background-color: rgb(94, 178, 139);
+}
+#delete_user{
+    margin-left: 30px;
+    background-color: rgb(178, 94, 133);
+
+}
+
+#edit_post{   
+    width: 300px;
+    border: 3px solid #73AD21;
+    margin-left: 80px;
+    box-sizing: border-box;
+}
